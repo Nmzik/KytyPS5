@@ -31,9 +31,11 @@ Expected issues right now include:
 | --- | --- |
 | <img src="docs/screenshots/ps5-03.png" width="400" alt="PS5 emulator screenshot 3"> | <img src="docs/screenshots/ps5-04.png" width="400" alt="PS5 emulator screenshot 4"> |
 
-| SILENT HILL: The Short Message |
-| --- |
-| <img src="docs/screenshots/ps5-05.png" width="400" alt="PS5 emulator screenshot 5"> |
+| SILENT HILL: The Short Message | Cat Quest III (3D game) |
+| --- | --- |
+| <img src="docs/screenshots/ps5-05.png" width="400" alt="PS5 emulator screenshot 5"> | <img src="docs/screenshots/ps5-06.png" width="400" alt="PS5 emulator screenshot 6"> |
+
+Full-size screenshot files are available in [docs/screenshots](docs/screenshots).
 
 ## Special Thanks
 
